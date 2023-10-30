@@ -1,1 +1,4 @@
-
+// variables can be used to declare the datatype and literal 
+let name = "yash";
+var age = 20 ;
+const city = "nagpur";
